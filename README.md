@@ -13,6 +13,7 @@ Projeyi clonladiktan sonra VSCode'da aciniz
 <br>
 Linuz icin:
 cd kodluypruzilkrepo
+<br>
 code .
 
 ## Contributing
